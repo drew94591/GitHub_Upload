@@ -9,5 +9,5 @@
  ## Usage
  Once you have downloaded the source files then the program can be run by issuing the following command:
  ```python
- python loan_analyzer.py
+ python GitHub_Upload/loan_analyzer.py
  ```
