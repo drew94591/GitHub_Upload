@@ -6,7 +6,7 @@
  inexpensive loans into a tab delimited .csv file.  The code is all part of the module 1 challenge assignment within the Fintech Bootcamp.
  
  ## Usage
- Once you have downloaded the source files then the program can run using the following command:
+ Once you have downloaded the source files then the program can be run issuing the following command:
  ```python
  python loan_analyzer.py
  ```
