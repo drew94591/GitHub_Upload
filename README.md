@@ -5,6 +5,6 @@
  moved into it's own function for reusuability purposes. The program also runs through a set conditional statements to find and output the data containing the most 
  inexpensive loans into a tab delimited .csv file.  The code is all part of the module 1 challenge assignment within the Fintech Bootcamp.
  
- '''python
+ ```python
  python loan_analyzer.py
- '''
+ ```
