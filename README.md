@@ -1,4 +1,6 @@
- # Loan_Analyzer.py 
+ # Loan_Analyzer.py
+ Open source Python code examples for the Module1 Challenge Assignment
+ 
  ## Examples and Sample Code
  The python code contained within loan_analyzer contains example code on how to use several types of lists containing integers and dictionaries
  to retrieve data elements and calculate averages using built-in functions such as sum() and len().  The program also shows how to calculate
@@ -7,7 +9,7 @@
  inexpensive loans into a tab delimited .csv file.  The code is all part of the module 1 challenge assignment within the Fintech Bootcamp.
  
  ## Usage
- Once you have downloaded the source files then the program can be run issuing the following command:
+ Once you have downloaded the source files then the program can be run by issuing the following command:
  ```python
  python loan_analyzer.py
  ```
