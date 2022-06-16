@@ -1,3 +1,9 @@
+"""
+    Author:   Drew Herrera
+    Date:     06/16/2022
+    Version:  1.0
+    Purpose:  Module 1 Challenge Assignment
+"""
 # coding: utf-8
 import csv
 from pathlib import Path
