@@ -1,4 +1,5 @@
- # Examples and Sample Code
+ # Loan_Analyzer.py 
+ ## Examples and Sample Code
  The python code contained within loan_analyzer contains example code on how to use several types of lists containing integers and dictionaries
  to retrieve data elements and calculate averages using built-in functions such as sum() and len().  The program also shows how to calculate
  the present_value using the formula Present Value = Future Value / (1 + Discounted Rate/12)**Remaining Months from a provided list.  This calculation is then
