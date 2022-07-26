@@ -1,5 +1,5 @@
- # Loan_Analyzer.py
- Open source Python code examples library for the Module 1 Challenge Assignment within the Fintech Bootcamp
+ # Loan Portfolio Automation
+This application automates the process during a loan portfolio analysis using built-in python functions and libraries
  
  ## Examples and Sample Code
  - Integer and dictionary lists used to retrieve data elements and calculate averages using sum() and len()
