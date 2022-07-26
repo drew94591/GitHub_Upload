@@ -4,7 +4,7 @@
     Version:  1.0
     Purpose:  Loan portfolio analysis through automation
 """
-# coding: utf-8
+# File imports
 import csv
 from pathlib import Path
 
