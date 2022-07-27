@@ -1,10 +1,4 @@
-"""
-    Author:   Drew Herrera
-    Date:     06/16/2022
-    Version:  1.0
-    Purpose:  Loan portfolio analysis through automation
-"""
-# File imports
+# Import required libraries and dependencies
 import csv
 from pathlib import Path
 
